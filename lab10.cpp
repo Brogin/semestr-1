@@ -10,7 +10,7 @@ struct univer
 	int plan;
 }; 
 
-void main()
+int main(int argc, char* argv[])
 {
 	system("color F0");
 	univer uni[4];
